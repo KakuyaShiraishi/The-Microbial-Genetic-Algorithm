@@ -1,18 +1,18 @@
 # The-Microbial-Genetic-Algorithm
 
 
-TMGA... testing
-Iteration 0, average fitness: 3.06254e+38, best fitness: 0.476275 (21)
-Iteration 100, average fitness: 8.13454e+33, best fitness: 0.312706 (84)
-Iteration 200, average fitness: 2.16065e+29, best fitness: 0.285965 (82)
-Iteration 300, average fitness: 5.73898e+24, best fitness: 0.24389 (84)
-Iteration 400, average fitness: 1.52435e+20, best fitness: 0.24389 (84)
-Iteration 500, average fitness: 4.0489e+15, best fitness: 0.24389 (84)
-Iteration 600, average fitness: 1.07544e+11, best fitness: 0.226968 (52)
-Iteration 700, average fitness: 2.85653e+06, best fitness: 0.205767 (89)
-Iteration 800, average fitness: 76.1333, best fitness: 0.191854 (81)
-Iteration 900, average fitness: 0.234572, best fitness: 0.173323 (46)
-Fittest individual: 0.0912705,0.260134,0.0953631,0.223753,0.32975,0.436783,0.241937,0.00599569,0.26944,0.141552,0.223214,0.24194,0.0178028,0.0032621,0.235991,0.211488,0.180843,0.124654,0.122326,0.0089545,
+TMGA... testing  
+Iteration 0, average fitness: 3.06254e+38, best fitness: 0.476275 (21)  
+Iteration 100, average fitness: 8.13454e+33, best fitness: 0.312706 (84)  
+Iteration 200, average fitness: 2.16065e+29, best fitness: 0.285965 (82)  
+Iteration 300, average fitness: 5.73898e+24, best fitness: 0.24389 (84)  
+Iteration 400, average fitness: 1.52435e+20, best fitness: 0.24389 (84)  
+Iteration 500, average fitness: 4.0489e+15, best fitness: 0.24389 (84)  
+Iteration 600, average fitness: 1.07544e+11, best fitness: 0.226968 (52)  
+Iteration 700, average fitness: 2.85653e+06, best fitness: 0.205767 (89)  
+Iteration 800, average fitness: 76.1333, best fitness: 0.191854 (81)  
+Iteration 900, average fitness: 0.234572, best fitness: 0.173323 (46)  
+Fittest individual:    0.0912705,0.260134,0.0953631,0.223753,0.32975,0.436783,0.241937,0.00599569,0.26944,0.141552,0.223214,0.24194,0.0178028,0.0032621,0.235991,0.211488,0.180843,0.124654,0.122326,0.0089545,  
 Iteration 1000, average fitness: 0.213241, best fitness: 0.173323 (46)
 Iteration 1100, average fitness: 0.215022, best fitness: 0.173323 (46)
 Iteration 1200, average fitness: 0.194538, best fitness: 0.13662 (25)
